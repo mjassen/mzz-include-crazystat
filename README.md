@@ -1,4 +1,4 @@
-=== mzz-pendingcomment ===
+=== mzz-include-crazystat ===
 Contributors: mjassen
 Tags: CrazyStat
 Requires at least:
@@ -33,3 +33,4 @@ Mzz-include-crazystat is an Open Source project. See and contribute to mzz-inclu
 0. Install the CrazyStat software on your website. This plugin doesn't do that. This plugin just "points to"/includes the CrazyStat installation.
 1. Put the mzz-include-crazystat.php file into a folder mzz-include-crazystat and upload the folder to the plugins directory in your WordPress installation.
 2. From the WordPress dashboard, activate the plugin.
+That's it! Now whenever someone visits your site the include code fires and so it allows the CrazyStat installation to start gathering statistics.
